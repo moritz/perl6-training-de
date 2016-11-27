@@ -1,0 +1,48 @@
+* Generelles
+* Perl 6 Synta
+** Loops
+** () ist ein Sub-Aufruf
+** Sigils
+** Operator-Reform
+* Typen
+** Strings
+** Numerisch
+** Listen/Arrays
+** Hash
+* Subroutinen
+** Signaturen
+** Multi Subs
+** Operatoren
+* Klassen und Objekte
+* Rollen
+** Benutzung als Interfaces
+** Konflikte
+** Parametrierung
+** Mixins
+* Regexes
+** whitespace
+** Backslash rules
+** Backslash classes
+** Quantifiers
+** Unicode Props
+** Char classes
+** Combining Char classes
+** | vs ||
+** <( und )>
+** Capture
+** Match Objects
+** Modifiers
+* Grammatiken
+** calling other rules
+** .parse
+** JSON example
+** Inheritance
+
+TODO:
+* IO
+* Module, Imports
+* Phasers
+* Junctions
+
+# Extensions
+* Regex sigspace Beispiel
